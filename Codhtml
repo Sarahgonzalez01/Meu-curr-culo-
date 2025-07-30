@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculo</title>
+</head>
+<style>
+    @media print {
+      body {
+        width: 21cm;
+        height: 30cm;
+        margin: 1cm;
+        font-size: 14px;
+        line-height: 1.4;
+      }
+      h1, h2, h3, h4 {
+        page-break-after: avoid;
+        page-break-before: avoid;
+        page-break-inside: avoid;
+      }
+      ul, li, p {
+        page-break-inside: avoid;
+      }
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      margin: 1cm auto;
+      max-width: 800px;
+    }
+
+    h1 {
+      text-align: center;
+      margin-bottom: 10px;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+
+    li {
+      margin-bottom: 5px;
+    }
+
+    a {
+      color: #0000EE;
+      text-decoration: none;
+    }
+  </style>
+<body>
+    <h1>Sarah Ingred Pereira Gonzalez</h1>
+    <ul>
+        <li>
+           <strong> Data de Nascimento:</strong> 16/08/2006
+        </li>
+    <li>
+    <strong>Número:</strong> (91) 91 98507-7724
+    </li>
+    <li>
+   <strong> Cidade/Estado:</strong> Paragominas - Pará</li>
+<li><strong>E-mail:</strong> sarahgonzalez905@gmail.com</li>
+    <li>
+    <a href="https://www.linkedin.com/in/sarah-gonzalez-9b5769323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"  target="_blank" rel="noopener noreferrer">
+      Meu LinkedIn - Sarah Gonzalez
+    </a>
+    </li>
+    </ul>
+    <h2>Objetivo</h2>
+    <p>Estudante em busca de estágio para aplicar conhecimentos adquiridos e adquirir experiência profissional, com foco em crescimento na área de cloud computing.</p>
+
+    <H3>Formações Acadêmicas </H3>
+    <ul>
+        <li>
+            <strong>Ensino Médio: completo </strong>- E.E.E.M Presidente Castelo Branco - 2022 à 2024.
+        </li>
+        <li>
+            <strong>Bacharelado em Engenharia de Software: em Andamento</strong> - Centro Universitário Internacional - Uninter - Abril de 2025
+            Data de conclusão prevista: Abril de 2029.
+        </li>
+    </ul>
+    <h3>Cursos extracurriculares </h3>
+<ul>
+  <li>
+    <strong>Assistente em Tecnologia da Informação – Senac – Concluído</strong><br>
+    Início: 03 de Fevereiro de 2025 • Conclusão: 12 de Maio de 2025 • Carga horária: 200H<br><br>
+    Formação básica em suporte técnico, manutenção de computadores, redes, sistemas operacionais e atendimento ao usuário.
+  </li>
+  <br>
+
+  <li>
+    <strong>Administrador de Banco de Dados – IFRS – Em andamento</strong><br>
+    Início: 14 de Julho • Carga horária: 200H<br><br>
+    Aborda modelagem, SQL, PostgreSQL, MySQL, segurança de dados e alta disponibilidade.
+  </li>
+  <br>
+
+  <li>
+    <strong>Bootcamp PYTHON – Udemy – Em andamento</strong><br>
+    Início: 13 de Maio • Carga horária: 30H<br><br>
+    Introdução ao Python, lógica de programação, estruturas condicionais e funções.
+  </li>
+  <br>
+
+  <li>
+    <strong>Arquitetura de Sistemas em Cloud Computing – Senac – Em andamento</strong><br>
+    Início: 05 de Agosto • Carga horária: 30H<br><br>
+    Conceitos de computação em nuvem, arquitetura, segurança e modelos IaaS, PaaS e SaaS.
+  </li>
+</ul>
+<br>
+<li>
+ <a href="https://github.com/Sarahgonzalez01" target="_blank" rel="noopener noreferrer">
+    Meu GitHub
+</a>
+ 
+</li>
+</ul>
+
+<h4>Habilidades</h4>
+<ul>
+  <li>Aprendizado contínuo</li>
+  <li>Organização e autonomia</li>
+  <li>Comunicação clara</li>
+</ul>
+<ul>
+  <li>Lógica de programação (Python)</li>
+  <li>Noções de computação em nuvem</li>
+  <li>HTML e CSS básicos</li>
+</ul>
+</body>
+</html>
